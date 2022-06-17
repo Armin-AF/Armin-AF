@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Armin</h1>
-<h3 align="center">A passionate developer from Sweden</h3>
+<h3 align="center">A programmer/game developer from Sweden</h3>
 
 
 

@@ -19,5 +19,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://www.codewars.com/users/arminafa/badges/large)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Armin-AF&icon=0&color=0)](https://visitcount.itsvg.in)
